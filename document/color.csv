@@ -1,0 +1,70 @@
+group_name,type,color
+Proteome cluster,Urinary I-rich,#68E1EA
+Proteome cluster,Urinary II-rich,#FF5245
+Proteome cluster,Reproductive-rich,#BDFFA1
+Proteome cluster,Digestive-rich,#E8256B
+Proteome cluster,Mixed,#EACD53
+Proteome cluster,BRCA-rich,#4257B1
+Proteome cluster,Lung-rich,#BA45FF
+System,Circulation,#EE2324
+System,Digestive,#FCB564
+System,Endocrine,#F6EB16
+System,Reproductive,#BC82B9
+System,Respirato,#84B3D5
+System,Urinary,#ABD385
+TNM stage,Stage 0,#C4E3F0
+TNM stage,Stage I,#75B9E0
+TNM stage,Stage II,#3897E5
+TNM stage,Stage III,#BA3F3F
+TNM stage,Stage IV,#890E17
+Gender,Female,#F9D84B
+Gender,Male,#ACDB9A
+LC subtype,LUAD,#e76f51
+LC subtype,SCC,#8ecae6
+LC subtype,SCLC,#ffafcc
+LC subtype binary,NSCLC,#00A758
+LC subtype binary,SCLC,#DA43FF
+Sample type,CRCA,#636efa
+Sample type,ESCA,#636EFA
+Sample type,STAD,#FF6692
+Sample type,BRCA,#00CC96
+Sample type,OVCA,#33FFC9
+Sample type,LIHC,#FF97FF
+Sample type,HNCA,#B6E880
+Sample type,TGCT,#FFCCDB
+Sample type,LC,#FECB52
+Sample type,CECA,#AB63FA
+Sample type,RCC,#FFDBC0
+Sample type,BLCA,#EF553B
+Sample type,CHOL,#FFA15A
+Sample type,ESCA,#19D3F3
+Sample type,ML,#C6CAFD
+Sample type,PAAD,#E0C6FD
+Sample type,SARC,#7AE6F8
+Sample type,THCA,#E8F8D6
+Sample type,others,#F7A799
+Sample type,normal,grey
+Sample type,BLCA_benign,#70312C
+Sample type,CRCA_benign,#8EC5EC
+Sample type,ESCA_benign,#115C61
+Sample type,LC_benign,#B67642
+Sample type,ML_benign,#1A307B
+Sample type,RCC_benign,#7C5C45
+Protein group,0,#FFEC21
+Protein group,1,#00A758
+Protein group,2,#FF38A4
+Protein group,3,#FFA200
+Protein group,4,#C5DC4A
+Protein group,5,#B1211E
+Protein group,6,#BA9CCC
+Protein group,7,#00C2F6
+Protein group,8,#FFBDBF
+STAD&CRCA-Proteome cluster,Digestive-rich,#47A997
+STAD&CRCA-Proteome cluster,Others,#BE7556
+BLCA-Proteome cluster,Urinary II-rich,#FF5245
+BLCA-Proteome cluster,Others,#BE7556
+Hcluster,C1,#B597C3
+Hcluster,C2,#2EAC6F
+Hcluster,C3,#602C89
+Hcluster,C4,#E55826
+Hcluster,C5,#E68881

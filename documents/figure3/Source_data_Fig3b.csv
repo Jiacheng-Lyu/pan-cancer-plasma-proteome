@@ -1,0 +1,19 @@
+,System,Description,-$\mathregular{Log_{10}}$(qvalue),Count
+R-HSA-351906,Circulation,Apoptotic cleavage of cell adhesion  proteins,2.1913677873530415,2
+R-HSA-381426,Circulation,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),2.1913677873530415,4
+R-HSA-198933,Circulation,Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,4.248847410921386,6
+hsa05417,Digestive,Lipid and atherosclerosis,2.086752990203783,7
+GO:0042159,Digestive,Lipoprotein catabolic process,2.7099117039291403,3
+GO:0034374,Digestive,Low-density lipoprotein particle remodeling,1.7431682104451773,2
+R-HSA-76005,Endocrine,Response to elevated platelet cytosolic Ca2+,17.44933707553927,20
+hsa04979,Endocrine,Cholesterol metabolism,3.0761339917451727,5
+GO:0034375,Endocrine,High-density lipoprotein particle remodeling,4.178387132619956,4
+R-HSA-6806667,Endocrine,Metabolism of fat-soluble vitamins,2.190878944348418,4
+GO:0006641,Reproductive,Triglyceride metabolic process,3.3652054006419556,4
+GO:0007596,Reproductive,Blood coagulation,3.3652054006419556,5
+GO:0051917,Reproductive,Regulation of fibrinolysis,5.376457322090081,4
+GO:0006959,Respirato,Humoral immune response,2.4265613700451616,5
+R-HSA-5173214,Respirato,O-glycosylation of TSR domain-containing proteins,1.7223285754841835,2
+R-HSA-1474244,Urinary,Extracellular matrix organization,2.2614184653012077,6
+GO:0006979,Urinary,Response to oxidative stress,1.4229361082203058,6
+R-HSA-6798695,Urinary,Neutrophil degranulation,4.224864236606586,10

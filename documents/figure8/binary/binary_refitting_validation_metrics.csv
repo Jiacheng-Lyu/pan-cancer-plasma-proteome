@@ -1,0 +1,31 @@
+,Cohort,Metric,Score,Tumor type
+0,validation,AUROC,0.8540306122448981,LC
+1,validation,Balanced accuracy,0.8077551020408162,LC
+2,validation,Precision,0.7924528301886793,LC
+3,validation,Recall,0.84,LC
+4,validation,F1,0.8155339805825242,LC
+5,validation,AUROC,0.9790816326530613,ESCA
+6,validation,Balanced accuracy,0.9390816326530612,ESCA
+7,validation,Precision,0.9150943396226415,ESCA
+8,validation,Recall,0.97,ESCA
+9,validation,F1,0.9417475728155339,ESCA
+10,validation,AUROC,0.9467930029154519,CRCA
+11,validation,Balanced accuracy,0.8775510204081634,CRCA
+12,validation,Precision,0.9204545454545454,CRCA
+13,validation,Recall,0.826530612244898,CRCA
+14,validation,F1,0.870967741935484,CRCA
+15,validation,AUROC,0.9477551020408164,BLCA
+16,validation,Balanced accuracy,0.9036734693877551,BLCA
+17,validation,Precision,0.8785046728971962,BLCA
+18,validation,Recall,0.94,BLCA
+19,validation,F1,0.9082125603864735,BLCA
+20,validation,AUROC,0.9495980210265925,RCC
+21,validation,Balanced accuracy,0.8531230674087817,RCC
+22,validation,Precision,0.9069767441860465,RCC
+23,validation,Recall,0.7878787878787878,RCC
+24,validation,F1,0.8432432432432431,RCC
+25,validation,AUROC,0.9176794313230909,ML
+26,validation,Balanced accuracy,0.85553772070626,ML
+27,validation,Precision,0.8444444444444444,ML
+28,validation,Recall,0.8539325842696629,ML
+29,validation,F1,0.8491620111731844,ML

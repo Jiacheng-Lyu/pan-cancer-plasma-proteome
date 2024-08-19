@@ -1,0 +1,37 @@
+,Tumor type,Description,-$\mathregular{Log_{10}}$(qvalue),Count
+HALLMARK_COAGULATION,discovery_tumor_BRCA,HALLMARK_COAGULATION,2.2109251502913176,3.0
+hsa04610,discovery_tumor_BRCA,Complement and coagulation cascades,1.7756694852430472,2.0
+GO:0007599,discovery_tumor_BRCA,hemostasis,1.950304212097783,3.0
+hsa04610,discovery_tumor_CECA,Complement and coagulation cascades,2.767047880664801,3.0
+hsa04512,discovery_tumor_CECA,ECM-receptor interaction,2.767047880664801,3.0
+R-HSA-1474244,discovery_tumor_CECA,Extracellular matrix organization,1.9359268585158524,4.0
+R-HSA-1592389,discovery_tumor_CECA,Activation of Matrix Metalloproteinases,1.9359268585158524,2.0
+R-HSA-9614399,discovery_tumor_CHOL,Regulation of localization of FOXO transcription factors,2.0711734351064695,2.0
+R-HSA-381426,discovery_tumor_ESCA,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),2.3653072992762714,2.0
+GO:0043277,discovery_tumor_ESCA,apoptotic cell clearance,4.6916127372340295,3.0
+HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION,discovery_tumor_HNCA,HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION,2.8029777211095315,6.0
+hsa04814,discovery_tumor_HNCA,Motor proteins,2.1011525850349826,4.0
+GO:0032429,discovery_tumor_LC,regulation of phospholipase A2 activity,1.9551417257893613,1.0
+GO:0032148,discovery_tumor_LC,activation of protein kinase B activity,1.9551417257893613,1.0
+HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION,discovery_tumor_LIHC,HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION,3.000639022265982,12.0
+HALLMARK_ANGIOGENESIS,discovery_tumor_LIHC,HALLMARK_ANGIOGENESIS,1.5289421000075527,4.0
+hsa04066,discovery_tumor_LIHC,HIF-1 signaling pathway,1.4710302972820168,5.0
+R-HSA-159740,discovery_tumor_OVCA,Gamma-carboxylation of protein precursors,1.7495322135510267,1.0
+R-HSA-3371568,discovery_tumor_OVCA,Attenuation phase,1.7495322135510267,1.0
+hsa04145,discovery_tumor_PAAD,Phagosome,2.9748806686371423,5.0
+R-HSA-8957275,discovery_tumor_PAAD,Post-translational protein phosphorylation,3.463084489101791,5.0
+hsa04142,discovery_tumor_RCC,Lysosome,3.491049705011207,4.0
+R-HSA-1236977,discovery_tumor_RCC,Endosomal/Vacuolar pathway,2.4094277204197447,2.0
+hsa04510,discovery_tumor_SARC,Focal adhesion,3.1996915467698925,5.0
+hsa04512,discovery_tumor_SARC,ECM-receptor interaction,2.1958825358133565,3.0
+hsa04810,discovery_tumor_SARC,Regulation of actin cytoskeleton,2.1647579464754356,4.0
+hsa04670,discovery_tumor_SARC,Leukocyte transendothelial migration,2.037253887794927,3.0
+GO:0001895,discovery_tumor_STAD,retina homeostasis,4.696352445173183,2.0
+HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,discovery_tumor_TGCT,HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,2.0418954346161136,4.0
+HALLMARK_HEME_METABOLISM,discovery_tumor_TGCT,HALLMARK_HEME_METABOLISM,2.0418954346161136,7.0
+R-HSA-9020591,discovery_tumor_TGCT,Interleukin-12 signaling,5.543297145715474,6.0
+HALLMARK_XENOBIOTIC_METABOLISM,discovery_tumor_THCA,HALLMARK_XENOBIOTIC_METABOLISM,2.974893090338788,7.0
+hsa04979,discovery_tumor_THCA,Cholesterol metabolism,4.609176138787017,5.0
+hsa00531,discovery_tumor_THCA,Glycosaminoglycan degradation,1.3918019931434227,2.0
+hsa03050,discovery_tumor_others,Proteasome,3.778195475581394,2.0
+R-HSA-211733,discovery_tumor_others,Regulation of activated PAK-2p34 by proteasome mediated degradation,4.962184920637986,2.0

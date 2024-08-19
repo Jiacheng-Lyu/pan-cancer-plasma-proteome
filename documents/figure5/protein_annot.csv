@@ -1,0 +1,53 @@
+Proteins,TF,Drug targets,Enzymes,Transporters,Annotation
+GAPDH,No,Yes,Yes,No,Glucose metabolism
+THBS1,No,No,No,No,Cell adhesion and mobility
+YWHAZ,Yes,No,No,No,Proliferation
+ALDOA,No,No,Yes,No,Glucose metabolism
+FN1,No,Yes,No,No,Cell adhesion and mobility
+ICAM1,Yes,Yes,No,No,Immune
+TFRC,Yes,Yes,Yes,No,Others
+ACTB,No,No,No,No,Cell adhesion and mobility
+ACTN1,No,Yes,No,No,Cell adhesion and mobility
+C1R,No,No,No,No,Immune
+C1S,No,Yes,Yes,No,Immune
+C4BPA,No,No,No,No,Immune
+C5,No,Yes,No,No,Immune
+CAMP,Yes,No,No,No,Others
+GSTO1,No,No,Yes,No,Others
+HSPA8,No,No,Yes,No,Others
+MST1,No,No,No,No,Immune
+MYH9,No,No,No,No,Cell adhesion and mobility
+PLTP,Yes,No,No,No,Others
+PROS1,No,Yes,No,No,Immune
+RCN1,No,No,No,No,Others
+S100A9,No,No,No,No,Immune
+TAGLN2,No,No,No,No,Immune
+TNC,No,No,No,No,Cell adhesion and mobility
+CFL1,No,No,No,No,Immune
+CTSD,No,No,Yes,No,Others
+CTSL,No,No,Yes,No,Others
+ITIH2,No,No,No,No,Others
+LDHB,No,Yes,Yes,No,Glucose metabolism
+SERPINA3,No,No,No,No,Immune
+ITIH3,No,No,No,No,Others
+PFN1,No,No,No,No,Cell adhesion and mobility
+SEPTIN2,No,No,No,No,Immune
+ACTA1,No,No,No,No,Cell adhesion and mobility
+ACTA2,No,No,No,No,Cell adhesion and mobility
+HSPA5,Yes,No,Yes,No,Others
+TPM4,No,No,No,No,Others
+YWHAB,NO,NO,NO,NO,Proliferation
+YWHAH,NO,NO,NO,NO,Proliferation
+APOE,NO,NO,NO,NO,Others
+BLMH,NO,NO,Yes,NO,Others
+CLU,NO,NO,NO,NO,Others
+ZYX,NO,NO,NO,NO,Cell adhesion and mobility
+VCL,NO,NO,NO,NO,Cell adhesion and mobility
+CTTN,NO,NO,NO,NO,Cell adhesion and mobility
+VWF,NO,Yes,NO,NO,Cell adhesion and mobility
+YWHAE,NO,NO,NO,NO,Proliferation
+ACTBL2,NO,NO,NO,NO,Cell adhesion and mobility
+ACTC1,NO,NO,NO,NO,Cell adhesion and mobility
+PNP,NO,Yes,Yes,NO,Others
+TUBA4A,NO,Yes,NO,NO,Cell adhesion and mobility
+PSIP1,NO,NO,NO,NO,Others

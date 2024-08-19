@@ -1,0 +1,10 @@
+,Cluster,Description,-$\mathregular{Log_{10}}$(qvalue),Count
+0,LUAD-enriched,Complement and coagulation cascades,7.889991387560494,6
+1,LUAD-enriched,Neutrophil degranulation,2.609034010910826,4
+2,LUAD-enriched,Platelet degranulation,1.8493004814685778,2
+3,LUAD-enriched,Humoral immune response,3.491927014608118,5
+4,SCC-enriched,Glycolysis / gluconeogenesis,1.4227502588118162,2
+5,SCC-enriched,Platelet degranulation,5.413394668500172,5
+6,SCC-enriched,Positive regulation of nf-kappab transcription factor activity,1.6636862277126563,2
+7,SCLC-enriched,Regulation of insulin-like growth factor (igf) transport and uptake by insulin-like growth factor binding proteins (igfbps),1.6198565781562546,3
+8,SCLC-enriched,Rhof gtpase cycle,1.4649463551811004,2

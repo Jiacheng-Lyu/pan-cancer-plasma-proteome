@@ -1,0 +1,15 @@
+,Hcluster,Description,-$\mathregular{Log_{10}}$(qvalue),Count
+R-HSA-381426,C1,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),6.179711789494089,10
+R-HSA-5686938,C1,Regulation of TLR by endogenous ligand,3.6533688685637964,4
+GO:0002455,C1,humoral immune response mediated by circulating immunoglobulin,5.629191428570306,7
+GO:0002455,C2,humoral immune response mediated by circulating immunoglobulin,14.250919730231129,10
+GO:0010575,C2,positive regulation of vascular endothelial growth factor production,1.5978501449378195,2
+GO:0030100,C2,regulation of endocytosis,1.4387117166032803,4
+hsa04610,C3,Complement and coagulation cascades,4.298590651458889,4
+GO:0006959,C3,humoral immune response,2.1621762729436087,4
+R-HSA-975634,C4,Retinoid metabolism and transport,4.46258172940418,5
+R-HSA-8964058,C4,HDL remodeling,2.1346140324180336,2
+GO:0010906,C4,regulation of glucose metabolic process,1.4729474135818184,3
+HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,C5,HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,3.8846488398982335,6
+R-HSA-9020591,C5,Interleukin-12 signaling,6.195001323679548,7
+R-HSA-1474244,C5,Extracellular matrix organization,2.080679871286287,7
