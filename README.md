@@ -1,6 +1,6 @@
 # pan-cancer-plasma-proteome
 
-This repository includes the code used in pan-cancer-plasma-proteome cohort study.mic study.
+This repository includes the code used in pan-cancer-plasma-proteome cohort study.
 
 **Plasma proteomic profiling of pan-cancer patients discovers biomarkers of cancers**
 
