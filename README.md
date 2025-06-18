@@ -2,7 +2,7 @@
 
 This repository includes the code used in pan-cancer-plasma-proteome cohort study.
 
-**Plasma proteomic profiling of pan-cancer patients discovers biomarkers of cancers**
+**Cancer biomarkers discovered using pan-cancer plasma proteomic profiling**
 
 Lin Bai, Jiacheng Lyu, Jinwen Feng, Xiaoqiang Qiao, Yuanyuan Qu, Guojian Yang, Yuanxue Zhu, Lingxiao Liao, Hui Gao, Aimin Zang, Zeya Xu, Tao Ji, Wencong Ding, Hailiang Zhang, Lingli Zhu, Yan Wang, Liang Wang, Xiaofang Wang, Yumiao Li, Jinghua Li, Xiaoping Yin, Guofa Zhao, Dan Liu, Xiangpeng Gao, Sha Tian, Subei Tan, Yan Pu, Lingling Li, Yongshi Liao, Dingwei Ye, Wenjun Yang, Youchao Jia, Chen Ding
 
