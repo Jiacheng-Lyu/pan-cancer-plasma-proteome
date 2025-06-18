@@ -4,7 +4,7 @@ This repository includes the code used in pan-cancer-plasma-proteome cohort stud
 
 **Plasma proteomic profiling of pan-cancer patients discovers biomarkers of cancers**
 
-Lin Bai, Jiacheng Lyu, Jinwen Feng, Xiaoqiang Qiao, Yuanyuan Qu, Guojian Yang, Yuanxue Zhu, Lingxiao Liao, Hui Gao, Aimin Zang, Zeya Xu, Tao Ji, Wencong Ding, Hailiang Zhang, Lingli Zhu, Yan Wang, Liang Wang, Xiaofang Wang, Yumiao Li, Jinghua Li, Xiaoping Yin, Guofa Zhao, Dan Liu, Xiangpeng Gao, Sha Tian, Subei Tan, Yan Pu, Lingling Li, Yongshi Liao, Dingwei Ye, Youchao Jia, Chen Ding
+Lin Bai, Jiacheng Lyu, Jinwen Feng, Xiaoqiang Qiao, Yuanyuan Qu, Guojian Yang, Yuanxue Zhu, Lingxiao Liao, Hui Gao, Aimin Zang, Zeya Xu, Tao Ji, Wencong Ding, Hailiang Zhang, Lingli Zhu, Yan Wang, Liang Wang, Xiaofang Wang, Yumiao Li, Jinghua Li, Xiaoping Yin, Guofa Zhao, Dan Liu, Xiangpeng Gao, Sha Tian, Subei Tan, Yan Pu, Lingling Li, Yongshi Liao, Dingwei Ye, Wenjun Yang, Youchao Jia, Chen Ding
 
 ## Code overview
 > The below figure numbers were corresponded to the paper version.
